@@ -1,23 +1,20 @@
-# Pump.fun Smart Contract
-Tools for Pump.fun
-This is the Rust/Anchor smart contract for Pump.fun, which includes functionalities to add virtual liquidity pools (LP), remove LP, and create Raydium Pools.
+**Supercharge Your Pump.fun Experience** 
 
-### Please use it and follow me on github
+ The ultimate toolkit for traders and creators in the Pump.fun ecosystem. Manage liquidity, launch to Raydium, and snipe the next big thing—all from one powerful interface.
 
-### Available to share the demo url
+**What You Can Do:**
 
-### Contact
-Always welcome to passionative clients. https://t.me/shinnyleo0912
+*   **For Creators:**
+    *   **Launch with Confidence:** Use our smart contracts to easily manage your virtual liquidity and make the jump to a Raydium pool without a hitch.
+    *   **Proven & Audited:** Review every transaction. Our contract logic is transparent and verifiable on the blockchain.
 
-### Features
-Token Listing: View a comprehensive list of Pumpfun tokens.
-Market Cap Sorting: Quickly identify tokens with the highest market cap.
-Market Cap Filtering: Filter out tokens with a market cap below $15,000.
-Social Links: Access social media links (Twitter, Telegram, Website, Pumpfun link).
-Fast Swap: Execute fast swaps using Bonkbot, Pepeboost, and GMGN Sniper Bot with a single click.
-Cross-Platform Support: Compatible with both mobile and PC, offering light and dark modes.
-Progressive Web App (PWA): Add Pump.fun to your desktop for an enhanced experience.
+*   **For Traders:**
+    *   **Discover Gems:** Filter through the noise with our advanced market cap sorting and filtering. Focus on tokens with a market cap over $15k to find serious projects.
+    *   **Swap at Lightning Speed:** Execute trades in a flash with integrated one-click actions for Bonkbot, Pepeboost, and GMGN.
 
-### Transactions
-You can review the transactions for removing virtual LP and creating Raydium Pools in this smart contract:
-https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
+*   **For Everyone:**
+    *   **Beautiful & Fast:** A sleek, modern app that works perfectly on your phone or computer. Choose your theme and even install it as a desktop PWA.
+
+**See It In Action:**
+Curious how the smart contract works? Check out a real transaction on the Solana explorer:
+[View a Sample Contract Transaction](https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet)
